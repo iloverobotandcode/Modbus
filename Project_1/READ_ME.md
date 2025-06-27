@@ -22,10 +22,14 @@
 1. Open your operating system (you can choose a local host or a virtual machine) 
 2. Install the Modbus tools (including Modbus Poll, Modbus Slave, Modbus Scan) - https://www.modbustools.com/download.html
 3. Open and Run Modbus Poll and Modbus Slave in the same place
-4. Check and configure the IP Address of Modbus Poll and Slave -> Make sure both Modbuses have the same IP Address
+4. Check and configure the IP Address of Modbus Poll and Slave --> Make sure both Modbuses have the same IP Address
 5. Write the data on the Modbus Poll and send to the Modbus Slave
 --- 
 ## 2️⃣ SECOND TASK - Modbus (Poll <-> Slave) in the different machines
+### Description
+
+### Step-by-step
+**Attention:** Where contain the Modbus Slave, we must use that IP Address
 
 --- 
 ## 3️⃣ THIRD TASK - (Website <-> Slave) in the local host
