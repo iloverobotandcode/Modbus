@@ -6,18 +6,21 @@
 5. How to communicate between **PLC SIEMENS** to **Modbus Poll** on simulation mode
 6. How to communicate between **ESP32** and **Modbus Poll** on **IoT Gateway**
 ---
-## 1️⃣ FIRST TASK - Modbus (Pool <-> Slave) in the same local host
+## 1️⃣ FIRST TASK - Modbus (Poll <-> Slave) in the same local host
 
 --- 
-## 2️⃣ SECOND TASK - Modbus (Pool <-> Slave) in the same local host
+## 2️⃣ SECOND TASK - Modbus (Poll <-> Slave) in the different machines
 
 --- 
-## 3️⃣ THIRD TASK - Modbus (Pool <-> Slave) in the same local host
+## 3️⃣ THIRD TASK - (Website <-> Slave) in the local host
 
 --- 
-## 4️⃣ FOURTH TASK - Modbus (Pool <-> Slave) in the same local host
+## 4️⃣ FOURTH TASK - (iFIX SCADA <-> Poll) on iFIX workspace
 
 --- 
-## 5️⃣ FIFTH TASK - Modbus (Pool <-> Slave) in the same local host
+## 5️⃣ FIFTH TASK - (PLC SIEMENS <-> Poll) on TIA PORTAL simulation
+
+--- 
+## 6️⃣ SIXTH TASK - (ESP32 <-> Poll) IoT Gateway
 
 --- 
