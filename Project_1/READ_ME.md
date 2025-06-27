@@ -5,5 +5,19 @@
 4. How to communicate between **SCADA on iFIX** and **Modbus Poll** (Modbus Slave --> Modbus Poll --> SCADA --> HMI)
 5. How to communicate between **PLC SIEMENS** to **Modbus Poll** on simulation mode
 6. How to communicate between **ESP32** and **Modbus Poll** on **IoT Gateway**
+---
+# FIRST TASK - Modbus (Pool <-> Slave) in the same local host
 
- 
+--- 
+# SECOND TASK - Modbus (Pool <-> Slave) in the same local host
+
+--- 
+# THIRD TASK - Modbus (Pool <-> Slave) in the same local host
+
+--- 
+# FOURTH TASK - Modbus (Pool <-> Slave) in the same local host
+
+--- 
+# FIFTH TASK - Modbus (Pool <-> Slave) in the same local host
+
+--- 
