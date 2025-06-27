@@ -35,6 +35,8 @@
 
 --- 
 ## 5️⃣ FIFTH TASK - (PLC SIEMENS <-> Poll) on TIA PORTAL simulation
+### References
+- https://www.youtube.com/watch?v=YuRjIp0cipA
 
 --- 
 ## 6️⃣ SIXTH TASK - (ESP32 <-> Poll) IoT Gateway
