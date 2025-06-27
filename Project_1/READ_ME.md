@@ -6,8 +6,19 @@
 5. How to communicate between **PLC SIEMENS** to **Modbus Poll** on simulation mode
 6. How to communicate between **ESP32** and **Modbus Poll** on **IoT Gateway**
 ---
+# ERRORS - SOLUTION
+1. If you cannot connect the Modbus Poll and Modbus Slave using TCP/IP protocol
+   1. Check the Windows Defender Firewall - Turn off the firewall
+   2. Check if there is any client that connects on the same PORT or IP Address
+---
 ## 1️⃣ FIRST TASK - Modbus (Poll <-> Slave) in the same local host
+### Description
 
+### Step-by-step
+1. Open your operating system (you can choose a local host or a virtual machine) 
+2. Install the Modbus tools (including Modbus Poll, Modbus Slave, Modbus Scan) - https://www.modbustools.com/download.html
+3. Open and run Modbus Poll and Modbus Slave in the same place
+4. 
 --- 
 ## 2️⃣ SECOND TASK - Modbus (Poll <-> Slave) in the different machines
 
